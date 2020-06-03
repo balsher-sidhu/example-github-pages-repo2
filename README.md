@@ -2,6 +2,8 @@
 
 You can use the [editor on GitHub](https://github.com/balsher-sidhu/example-github-pages-repo2/edit/master/README.md) to maintain and preview the content for your website in Markdown files. BSS wrote this.
 
+This was written in Atom.
+
 [Here is my paper](https://www.sciencedirect.com/science/article/abs/pii/S0305750X19304851 "WD paper")
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
